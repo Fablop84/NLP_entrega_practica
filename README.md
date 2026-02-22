@@ -40,7 +40,7 @@ Este proyecto implementa un flujo completo de Procesamiento de Lenguaje Natural 
 - Documentación incluida en los notebooks.
 ## 🚀 Reproducibilidad
 - Clonar el repositorio:
-git clone https://github.com/usuario/NLP_practica.git
+git clone https://github.com/Fablop84/NLP_entrega_practica.git
 - Instalar dependencias:
 pip install -r requirements.txt
 - Ejecutar notebooks en notebooks/ para reproducir análisis y entrenamiento.
