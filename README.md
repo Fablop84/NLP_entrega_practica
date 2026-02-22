@@ -45,4 +45,8 @@ git clone https://github.com/Fablop84/NLP_entrega_practica.git
 pip install -r requirements.txt
 - Ejecutar notebooks en notebooks/ para reproducir análisis y entrenamiento.
 
+---
+**Autor:** Fabian Camilo López  
+**Fecha:** Febrero 2026  
+**Bootcamp:** Deep Learning - Práctica Final NLP
 
